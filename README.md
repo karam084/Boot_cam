@@ -1,2 +1,0 @@
-# Boot_cam
-# Hello
